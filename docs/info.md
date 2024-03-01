@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+it can be used as a counter as well as basic gates, full adder and full subtractor. For working of basic gates and all we have to give logic high at 3. pin 4 should always be high for both use.
 
 ## How to test
 
-Explain how to use your project
+give 1hz of clock pulse at pin 0.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+leds can be connected for easy visulization of ocuput of adders and subtractors
