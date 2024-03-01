@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     354858054593504257      # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     391156115395107841      # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "7 segment counter and logic gates"      # Project title
   author:       "Khush Patel"      # Your name
   discord:      "khush_patel10"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
