@@ -17,7 +17,7 @@ pinout:
   ui[0]: "clock 1hz"
   ui[1]: "none"
   ui[2]: "logic low for counter and logic high for  gates operation"
-  ui[3]: "logic high only"
+  ui[3]: "logic high only "
   ui[4]: "gates input a"
   ui[5]: "gates input b"
   ui[6]: "gates input c"
